@@ -7,6 +7,7 @@
       "name": "Youtube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Curcube",
+      "subtitle": "just checking if this works",
       "version": "1.4.5",
       "versionDate": "2021-03-17T14:00:00-07:00",
       "versionDescription": "Fixes app crash after curcube account login",
