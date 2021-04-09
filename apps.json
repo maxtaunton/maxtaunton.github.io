@@ -49,7 +49,7 @@
      "tintColor":"ff0000",
      "version":"16.13.1",
      "versionDate":"2021-06-24T14:00:00-07:00",
-     "versionDescription":"Fixed bugs, improved performance, drank way too much coffee."}
+     "versionDescription":"Fixed bugs, improved performance, drank way too much coffee."}, 
     {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
