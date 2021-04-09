@@ -224,10 +224,10 @@
       "notify": true
     },
     {
-      "title": "iOS 13.4 Fixes App Crashes",
-      "identifier": "ios-13-4-now-available",
-      "caption": "Update to iOS 13.4 to fix some sideloaded apps crashing on launch.",
-      "tintColor": "34C759",
+      "title": "Fixed curcube crash",
+      "identifier": "curcube-now-fixed",
+      "caption": "Update to version 1.4.5 to fix crashing on launch.",
+      "tintColor": "ff0000",
       "date": "2020-04-10T13:30:00-07:00",
       "notify": false
     },
