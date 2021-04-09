@@ -187,15 +187,6 @@
   ],
   "news": [
     {
-      "title": "Iphone XR support for Tiktok!",
-      "identifier": "tiktok-iphoxr-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
-      "appID": "com.lema.UnicornApp3qJFr1Zw",
-      "tintColor": "29f0f4",
-      "date": "2019-09-25",
-      "notify": false
-    },
-    {
       "title": "Delta Now Available",
       "identifier": "delta-now-available",
       "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
@@ -232,6 +223,15 @@
       "appID": "com.rileytestut.Clip",
       "date": "2020-06-17",
       "notify": true
+    },
+    {
+      "title": "Iphone XR support for Tiktok!",
+      "identifier": "tiktok-iphoxr-support",
+      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "appID": "com.lema.UnicornApp3qJFr1Zw",
+      "tintColor": "29f0f4",
+      "date": "2019-09-25",
+      "notify": false
     },
     {
       "title": "Fixed curcube crash",
