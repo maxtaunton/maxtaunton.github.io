@@ -224,14 +224,6 @@
       "notify": true
     },
     {
-      "title": "Fixed curcube crash",
-      "identifier": "curcube-now-fixed",
-      "caption": "Update to version 1.4.5 to fix crashing on launch.",
-      "tintColor": "ff0000",
-      "date": "2020-04-10T13:30:00-07:00",
-      "notify": false
-    },
-    {
       "title": "Clip Now Available!",
       "identifier": "clip-now-available",
       "caption": "Finally, a clipboard manager that can run in the background â€” no jailbreak required.",
@@ -240,7 +232,15 @@
       "appID": "com.rileytestut.Clip",
       "date": "2020-06-17",
       "notify": true
-    }
+    },
+    {
+      "title": "Fixed curcube crash",
+      "identifier": "curcube-now-fixed",
+      "caption": "Update to version 1.4.5 to fix crashing on launch.",
+      "tintColor": "ff0000",
+      "date": "2020-04-10T13:30:00-07:00",
+      "notify": false
+    },
   ],
   "userInfo": {
   }
