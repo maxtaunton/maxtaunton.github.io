@@ -219,26 +219,17 @@
       "identifier": "clip-now-available",
       "caption": "Finally, a clipboard manager that can run in the background -- no jailbreak required.",
       "tintColor": "EC008C",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
+      "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/01/95/97/0195974e-646d-3238-5bb9-b7f5f1dc98f0/source/512x512bb.jpg",
       "appID": "com.lema.UnicornApp3qJFr1Zw",
-      "date": "2020-06-17",
+      "date": "2021-04-09",
       "notify": true
-    },
-    {
-      "title": "Iphone XR support for Tiktok!",
-      "identifier": "atiktok-iphoxr-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
-      "appID": "com.lema.UnicornApp3qJFr1Zw",
-      "tintColor": "29f0f4",
-      "date": "2019-09-25",
-      "notify": false
     },
     {
       "title": "Fixed curcube crash",
       "identifier": "curcube-now-fixed",
       "caption": "Update to version 1.4.5 to fix crashing on launch.",
       "tintColor": "ff0000",
-      "date": "2020-04-10T13:30:00-07:00",
+      "date": "2021-04-08",
       "notify": false
     },
   ],
