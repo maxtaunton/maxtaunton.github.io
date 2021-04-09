@@ -42,6 +42,10 @@
       "tintColor": "29f0f4",
       "size": 18456868,
       "permissions": [
+                {
+          "type": "camera",
+          "usageDescription": "Allows Delta to use images from your camera Library as game artwork."
+        },
         {
           "type": "photos",
           "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
