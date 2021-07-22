@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>My socials</title>
+<h2>/h2>
+<p>Click to find my Instagram</p>
+
+<button onclick="myFunction()">click here</button>
+
+<script>
+function myFunction() {
+  location.replace("https://Instagram.com/maxmightbetired")
+}
+</script>
+
+</body>
+</html> 
