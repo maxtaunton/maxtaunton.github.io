@@ -16,17 +16,18 @@
       "iconURL": "https://thumbs.dreamstime.com/b/web-189206689.jpg",
       "tintColor": "ff0000",
       "size": 4791823,
+            "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Youtube to play audio in the background."
+        }
+              ],
       "screenshotURLs": [
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c6/57/01/c6570194-e19c-2628-4a53-89542d5428ff/mzl.tvydhezj.png/460x0w.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/de/90/f8de901d-82b9-cff6-b950-835d3b4108ce/mzl.odnjrimv.png/460x0w.webp",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/17/1f/23/171f2317-a9c4-0188-57e0-0b06ecee2cc0/mzl.nfxgxmbt.png/460x0w.webp",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/17/8b/2d178b43-5a96-1452-c307-365de9d1f52d/mzl.sodqaudr.png/460x0w.webp",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/78/6f/87/786f870e-21e1-f48b-3c8f-e0de9cc2c046/mzl.alrcjsof.png/460x0w.webp"],
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Youtube to play audio in the background."
-        },
     {
       "name": "Tiktok",
       "bundleIdentifier": "com.lema.UnicornApp3qJFr1Zw",
