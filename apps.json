@@ -235,6 +235,15 @@
       "date": "2021-04-08",
       "notify": false
     },
+    {
+      "title": "Urmom",
+      "identifier": "curcube-now-ixed",
+      "caption": "Update to version 1.4.5 to fix crashing on launch.",
+      "tintColor": "ff0000",
+      "appID": "com.lema.UnicornApp3qJFr1Zw",
+      "date": "2022-04-08",
+      "notify": false
+    },
   ],
   "userInfo": {
   }
